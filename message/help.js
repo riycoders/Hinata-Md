@@ -57,6 +57,66 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
  > ${prefix}getmusic
  > ${prefix}instagram
  > ${prefix}facebook
+ 
+ *MAKER MENU*
+ > ${prefix}neon
+ > ${prefix}pencil
+ > ${prefix}candy
+ > ${prefix}christmas
+ > ${prefix}3dchristmas
+ > ${prefix}sparklechristmas
+ > ${prefix}deepsea
+ > ${prefix}scifi
+ > ${prefix}rainbow
+ > ${prefix}waterpipe
+ > ${prefix}spooky
+ > ${prefix}circuit
+ > ${prefix}discovery
+ > ${prefix}metalic
+ > ${prefix}fiction
+ > ${prefix}demon
+ > ${prefix}transformer
+ > ${prefix}berry
+ > ${prefix}thunder
+ > ${prefix}magma
+ > ${prefix}3dstone
+ > ${prefix}neonlight
+ > ${prefix}glitch
+ > ${prefix}harrypotter
+ > ${prefix}brokenglass
+ > ${prefix}papercut
+ > ${prefix}watercolor
+ > ${prefix}multicolor
+ > ${prefix}neondevil
+ > ${prefix}underwater
+ > ${prefix}graffitibike
+ > ${prefix}snow
+ > ${prefix}cloud
+ > ${prefix}honey
+ > ${prefix}ice
+ > ${prefix}fruitjuice
+ > ${prefix}biscuit
+ > ${prefix}wood
+ > ${prefix}chocolate
+ > ${prefix}strawberry
+ > ${prefix}matrix
+ > ${prefix}blood
+ > ${prefix}dropwater
+ > ${prefix}toxic
+ > ${prefix}lava
+ > ${prefix}rock
+ > ${prefix}bloodglas
+ > ${prefix}halloween
+ > ${prefix}darkgold
+ > ${prefix}joker
+ > ${prefix}wicker
+ > ${prefix}firework
+ > ${prefix}skeleton
+ > ${prefix}blackpink
+ > ${prefix}sand
+ > ${prefix}glue
+ > ${prefix}1917
+ > ${prefix}leaves
   
  *RANDOM MENU*
  > ${prefix}quote
@@ -74,6 +134,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
  > ${prefix}tebakgambar
   
  *PAYMENT & BANK*
+ > ${prefix}topbalance
  > ${prefix}buylimit
  > ${prefix}buyglimit
  > ${prefix}transfer
