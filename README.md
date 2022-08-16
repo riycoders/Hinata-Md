@@ -68,11 +68,11 @@ npm start
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Saweria](https://saweria.co/Riy20)
 
 # Thanks to
-- Dika Ardnt
+- Irfan H.
 - Fatih Arridho
-- Yoga
-- Riy
+- Yog Ganz
+- Faiz Frdnd
+- Riy 04
