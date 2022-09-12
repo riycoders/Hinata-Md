@@ -1,21 +1,21 @@
 {
-    "ownerNumber": "6281575886399@s.whatsapp.net",
-    "ownerName": "Riy 04",
-    "botName": "Hinata-Md",
+    "ownerNumber": "6282171432358@s.whatsapp.net",
+    "ownerName": "Alex",
+    "botName": "MG-Botz",
     "footer": "Xcode Team",
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
     "lolkey": "Beli Sendiri",
-    "youtube": "https://youtube.com/c/Riy04",
-    "instagram": "https://instagram.com/riychdwayne",
+    "youtube": "https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw",
+    "instagram": "https://instagram.com/al_pakel",
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 255,
     "gcount": {
         "prem": 35,
         "user": 15
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "packname": "Stiker By Alex",
+        "author": "Subscribe Alex Pakel"
     }
 }
