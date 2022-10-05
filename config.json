@@ -1,13 +1,13 @@
 {
-    "ownerNumber": "6281575886399@s.whatsapp.net",
-    "ownerName": "Riy 04",
-    "botName": "Hinata-Md",
+    "ownerNumber": "6289512069904@s.whatsapp.net",
+    "ownerName": "Dhika",
+    "botName": "Andhika-Bot",
     "footer": "Xcode Team",
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
     "lolkey": "Beli Sendiri",
-    "youtube": "https://youtube.com/c/Riy04",
-    "instagram": "https://instagram.com/riychdwayne",
+    "youtube": "Blm ada",
+    "instagram": "https://instagram.com/ryuzeenx",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
@@ -15,7 +15,7 @@
         "user": 15
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "packname": "Andhika-Bot",
+        "author": "Dhika"
     }
 }
